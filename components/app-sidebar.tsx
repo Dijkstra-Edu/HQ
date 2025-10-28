@@ -132,10 +132,15 @@ const data = {
   ],
   administration: [
     {
-      name: "Blog Administration",
-      url: "/blog-administration",
+      name: "Manual Blog Administration",
+      url: "/Manual-Blog",
       icon: IconNotes,
     },
+    {
+      name: "Auto Generated Blog Administration",
+      url: "/Auto-generated-Blog",
+      icon: IconNotes,
+   },
     {
       name: "Post Administration",
       url: "/post-administration",
